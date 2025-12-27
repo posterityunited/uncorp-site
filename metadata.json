@@ -1,5 +1,5 @@
-
 {
   "name": "uncorp - Not Maximizing Shareholder Values",
-  "description": "A nonprofit movement dedicated to undoing corporate dominance and prioritizing human values over profits."
+  "description": "A nonprofit movement dedicated to undoing corporate dominance and prioritizing human values over profits.",
+  "requestFramePermissions": []
 }
